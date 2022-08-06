@@ -1,0 +1,19 @@
+{
+  "name": "dyncv",
+  "version": "1.0.0",
+  "description": "dynamic portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enros7500/dyncv.git"
+  },
+  "author": "enros7500",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enros7500/dyncv/issues"
+  },
+  "homepage": "https://github.com/enros7500/dyncv#readme"
+}
